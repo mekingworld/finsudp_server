@@ -1,4 +1,4 @@
-# INS/UDP to C-MODE Converter
+# FINS/UDP to C-MODE Converter
 ## 项目介绍
 FINS/UDP to C-MODE Converter 是一个用于工业自动化通信的协议转换工具。它能够将FINS/UDP协议数据包转换为C-MODE协议格式，并通过串口发送到设备，同时将设备返回的C-MODE协议响应转换回FINS/UDP格式发送给客户端。
 
